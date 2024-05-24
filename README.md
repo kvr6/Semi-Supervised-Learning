@@ -74,6 +74,6 @@ text to lower case and removed punctuations, special characters, white spaces, n
 and common word endings. Finally, we created the Term Document Matrix to find
 similarity between the text reviews.
 
-Here's the word cloud: 
+
 
 

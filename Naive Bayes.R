@@ -3,7 +3,7 @@ library(e1071)
 library(caret)
 library(SDMTools)
 
-mydata = read.csv("C:/Personal/ssrivas6/YelpReviewData.csv")
+mydata = read.csv("C:/Personal/krajan/YelpReviewData.csv")
 c=which(is.na(mydata$cosinecost))
 mydata$cosinecost[c]=0
 

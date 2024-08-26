@@ -266,7 +266,7 @@ tree classifiers and hence would work well with the self-training algorithm [5].
 Filter might be Doing? ICWSM. (2013).
 
 [2] Mukherjee, A., Liu, B. and Glance, N. 2012. Spotting fake reviewer groups in consumer
-reviews. WWW.
+reviews.
 
 [3] Mukherjee, A., Kumar, A., Liu, B., Wang, J., Hsu, M., Castellanos, M., and Ghosh, R. 2013a. Spotting
 opinion spammers using behavioral footprints. In Proceedings of the 19th ACM SIGKDD international
